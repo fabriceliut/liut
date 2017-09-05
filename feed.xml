@@ -3,26 +3,26 @@
     <title>liut-design</title>
     <link href="https://slaapme.github.io/liut/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/liut" />
-    <updated>2017-09-05T14:46:34+02:00</updated>
+    <updated>2017-09-05T15:01:03+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/liut</id>
 
     <entry>
-        <title>Test page</title>
+        <title>Est-ce que le Desing sprint c&#x27;est pour moi ?</title>
         <author>
             <name>Fabrice Liut</name>
         </author>
-        <link href="https://slaapme.github.io/liut/test-page/"/>
-        <id>https://slaapme.github.io/liut/test-page/</id>
+        <link href="https://slaapme.github.io/liut/le-desing-sprint-cest-pour-moi/"/>
+        <id>https://slaapme.github.io/liut/le-desing-sprint-cest-pour-moi/</id>
 
-        <updated>2017-09-05T14:34:53+02:00</updated>
+        <updated>2017-09-05T15:00:49+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/liut/media/posts/1/solo.jpg" alt="" />
-                Voil&agrave; un test site.
+                Tu veux savoir si c'est pour toi ? Alors je dirais OUI ! Non pas que ce soit une solution magique &agrave; tout, mais plut&ocirc;t que &ccedil;a ouvre sur un mindset qui te permettra de trouver r&eacute;ponse &agrave; tout !
             ]]>
         </content>
     </entry>
