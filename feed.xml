@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>liut-design</title>
+    <link href="https://slaapme.github.io/liut/feed.xml" rel="self" />
+    <link href="https://slaapme.github.io/liut" />
+    <updated>2017-09-05T14:43:45+02:00</updated>
+    <author>
+        <name>Fabrice Liut</name>
+    </author>
+    <id>https://slaapme.github.io/liut</id>
+
+    <entry>
+        <title>Test page</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/test-page/"/>
+        <id>https://slaapme.github.io/liut/test-page/</id>
+
+        <updated>2017-09-05T14:34:53+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/1/solo.jpg" alt="" />
+                Voil&agrave; un test site.
+            ]]>
+        </content>
+    </entry>
+</feed>

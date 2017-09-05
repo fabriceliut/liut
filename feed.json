@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "liut-design",
+    "description": "",
+    "home_page_url": "https://slaapme.github.io/liut",
+    "feed_url": "https://slaapme.github.io/liut/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fabrice Liut"
+    },
+    "items": [
+        {
+            "id": "https://slaapme.github.io/liut/test-page/",
+            "url": "https://slaapme.github.io/liut/test-page/",
+            "title": "Test page",
+            "content_html": "Voil&agrave; un test site.",
+            "image": "https://slaapme.github.io/liut/media/posts/1/solo.jpg",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-05T14:43:46+02:00",
+            "date_modified": "2017-09-05T14:34:53+02:00"
+        }
+    ]
+}
