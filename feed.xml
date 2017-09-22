@@ -3,12 +3,57 @@
     <title>liut</title>
     <link href="https://slaapme.github.io/liut/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/liut" />
-    <updated>2017-09-15T13:22:25+02:00</updated>
+    <updated>2017-09-22T11:25:43+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/liut</id>
 
+    <entry>
+        <title>La pensée design et le design sprint pour réussir sa transition</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/la-pensee-design-et-le-design-sprint/"/>
+        <id>https://slaapme.github.io/liut/la-pensee-design-et-le-design-sprint/</id>
+            <category term="designsprint"/>
+
+        <updated>2017-09-22T11:25:37+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/4/design-sprint.jpg" alt="" />
+                Nous le savons tous maintenant, l&rsquo;humanit&eacute; est en train de vivre une r&eacute;elle transition soci&eacute;tale, structurelle et int&eacute;rieure. Voir notre monde en fractal est certainement la vision la plus adapt&eacute;e pour comprendre et s&rsquo;adapter. Sortir du mod&egrave;le de pens&eacute;e h&eacute;rit&eacute; de l&rsquo;industrialisation est maintenant n&eacute;cessaire pour ne pas sombrer dans des rouages qui ne peuvent plus tourner. Prenons du recule et portons une r&eacute;flexion syst&eacute;mique globale.<br><br><strong>La pens&eacute;e design apporte un mindset diff&eacute;rent, organique et agile.</strong> Construire un projet pas &agrave; pas, apporter des solutions concr&egrave;tes &agrave; des probl&eacute;matiques r&eacute;elles, poser les bonnes questions. Le temps des g&eacute;nies &eacute;volue vers une aire de collaboration. De g&eacute;nie oui mais en groupe, avec des membres compl&eacute;mentaires. Profiter de la transdisciplinarit&eacute; pour ouvrir une vision &agrave; 360&deg; n&eacute;cessaire pour innover, pour se transformer.<br><br><strong>Le design sprint est une expression de cette pens&eacute;e design, un mod&egrave;le d&rsquo;agilit&eacute;.</strong> En 5 jours, comprendre et interpr&eacute;ter en groupe une probl&eacute;matique, apporter des solutions et d&eacute;cider. Prototyper et pousser en test tr&egrave;s rapidement, en reposant sur des analyses expertes. Faire en 8 jours ce qu&rsquo;on ferait en 8 mois avec des processus classiques. Tout va plus vite et il faut s&rsquo;adapter. Accepter d&rsquo;apprendre en continue, d&rsquo;aller chercher les erreurs pour faire &eacute;merger la bonne direction &agrave; prendre.<br><br><strong>La pens&eacute;e design apporte une vision syst&eacute;mique et une pratique circulaire.</strong> Ce n&rsquo;est plus un produit que l&rsquo;on r&eacute;fl&eacute;chit en interne, que l&rsquo;on d&eacute;veloppe et qu&rsquo;on pousse sur le march&eacute;. C&rsquo;est maintenant une r&eacute;flexion de groupe qui devient directement une exp&eacute;rience &agrave; proposer aux utilisateurs sous la forme d&rsquo;un prototype tr&egrave;s centr&eacute; sur les priorit&eacute;s. Apprendre, valider ou invalider et recommencer dans une nouvelle boucle. Tout avance petit &agrave; petit mais les risques de partir dans une mauvaise direction sont tr&egrave;s grandement r&eacute;duits.<br><br>Faire l&rsquo;exp&eacute;rience du Design Sprint, c&rsquo;est faire l&rsquo;exp&eacute;rience de la pens&eacute;e design, en groupe. C&rsquo;est aussi rapprocher les humains de son entreprise ainsi que de ses partenaires. C&rsquo;est pour finir l&rsquo;occasion de redonner du sens dans ces heures de &ldquo;travailler ensemble&rdquo;.&rdquo;
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Une collaboration idéale entre Agence dev/com et Facilitateur</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/une-collaboration-ideale/"/>
+        <id>https://slaapme.github.io/liut/une-collaboration-ideale/</id>
+            <category term="designsprint"/>
+
+        <updated>2017-09-22T11:19:31+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/3/collab.jpg" alt="" />
+                Tout les process d'agence sont en train d'&eacute;voluer. Les rapports client/prestataire, avec r&eacute;cup&eacute;ration de cahier des charges ou m&ecirc;me le fonctionnement en appel d'offre ne sont plus viables et recherch&eacute;s.<br><br><strong>Nous entrons dans une aire de collaboration, partenaire/partenaire.</strong> Chacun son savoir-faire, chacun son expertise, mais tout le monde se retrouve r&eacute;guli&egrave;rement pour apporter sa pierre au projet. Tout le monde travaille ensemble le plus possible.<br><br>L'agilit&eacute; est adapt&eacute;e &agrave; ce nouveau paradigme pour g&eacute;rer la conduite globale de projet, de son initiation au suivi post sortie.<br>
+<h3>Comment cette collaboration fonctionne en pratique ?</h3>
+<br>Prenons une agence de com/dev travaillant avec un grand groupe. Elle a g&eacute;n&eacute;ralement pour objectif de d&eacute;velopper des projets de l'initiation &agrave; la sortie public et d'installer une relation de confiance long terme.<br><br>Pour que tout cela soit possible, il est n&eacute;cessaire d&rsquo;accompagner les &eacute;quipes des grands groupes le plus t&ocirc;t possible. La meilleure mani&egrave;re de g&eacute;rer cela est de proposer des ateliers regroupant &eacute;quipe de l&rsquo;agence, &eacute;quipe du groupe et au milieu pour faciliter et neutraliser les &eacute;changes, un facilitateur.<br>
+<h3>Pourquoi un facilitateur plut&ocirc;t qu&rsquo;un m&eacute;diateur ?</h3>
+<br>Parce que le facilitateur va amener avec lui, en plus de sa posture, des outils, des m&eacute;thodes permettant de mieux communiquer sans forc&eacute;ment avoir &agrave; parler et d&eacute;battre. Il va faciliter l&rsquo;&eacute;coute, les alignements d&rsquo;id&eacute;es et les d&eacute;cisions.<br><br>De plus, il est possible de faire intervenir des ateliers au milieu de cycles agiles, lorsqu&rsquo;il y a des grands virages de d&eacute;veloppement, des refontes, des nouvelles versions etc&hellip; Ce que le facilitateur fait aussi.<br><br><strong>Ainsi l&rsquo;agence obtient ce qu&rsquo;elle veut :</strong> un bon lancement de projet, un cahier des charge co-construit avec le groupe partenaire. Pendant les ateliers, ils ont pu se rencontrer aussi sur le plan humain et s&rsquo;aligner sur un language commun apport&eacute; par le facilitateur. Il auront ensuite &agrave; charge toute la conduite et le suivi projet sur le long terme.<br><br><strong>Le facilitateur obtient ce qu&rsquo;il veut :</strong> il aide &agrave; l&rsquo;initiation du projet, c&rsquo;est un peu le lanceur de fus&eacute;e. Ensuite, il fournit les guidelines n&eacute;cessaires pour que l&rsquo;agence puisse prendre la suite sur une d&eacute;marche agile. Il interviendra &agrave; nouveau au besoin pour une prochaine grande phase du projet.<br><br><strong>Le client obtient ce qu&rsquo;il veut :</strong> il connait l&rsquo;agence, leurs m&eacute;thodes et expertises. Il participe activement &agrave; la conception des bases du projet. Il est acteur et non juste &agrave; la d&eacute;cision et validation. Le second effet est le rapprochement de ses propres &eacute;quipes &gt; faire travailler le d&eacute;cideur, le commercial, le service client etc&hellip; Tous ensemble alors que souvent ils sont chacun dans leur p&ocirc;le.<br><br>Le combo Agence / Facilitateur ext&eacute;rieur est pour moi le combo id&eacute;al : on conserve ainsi un premier contact &ldquo;neutre&rdquo; avec le client, et une collaboration en &eacute;tapes ou chacun a sa place.<br><br>De plus, l&rsquo;&eacute;quipe de l&rsquo;agence se forme petit &agrave; petit &agrave; la posture facilitateur, d&eacute;couvre des m&eacute;thodes venant du Design et peut renouveler r&eacute;guli&egrave;rement la vision sur ses propres process gr&acirc;ce &agrave; l&rsquo;interaction avec cet &ldquo;avis ext&eacute;rieur&rdquo; qui varie suivant le facilitateurs partenaires.<br><br><strong>Ce mod&egrave;le de collaboration peut nourrir la transition des agences de toutes &eacute;chelles qui ne sont plus assez agiles.</strong><br><br>Quand on travaille suivant un process "classique" d'agence de Dev/Com, tout le monde sait maintenant que 50% des co&ucirc;ts est de l'ordre de l'anticipation. C'est tout simplement le co&ucirc;t pour "rentrer dans ses frais", "ne pas se planter de trop dans le chiffrage" mais qui n'a absolument pas de valeur pour le projet en lui-m&ecirc;me.<br><br>De plus dans de nombreux cas, est-ce que 3 semaines de recherches et de benchmarks sont n&eacute;cessaires, ou est-ce qu'il n'y a pas d'autres mod&egrave;les plus efficient pour "rassurer" sur la construction d'un projet ?<br><br>Les hi&eacute;rarchies complexes, les directeurs techniques et artistiques portant toute l'exp&eacute;rience de l'agence et qui &eacute;taient l'une des cl&eacute;s de r&eacute;ussite des agences &agrave; succ&egrave;s sont maintenant ce qui peut les ralentir. Ces agences luttent souvent &agrave; modifier leurs process et m&eacute;thodes et &agrave; adapter leur structure existante &agrave; un monde qui n&rsquo;a plus le temps de perdre du temps.<br>
+<blockquote>&ldquo;Pourquoi un projet devrait prendre 8 mois, quand il peut &ecirc;tre r&eacute;alis&eacute; en 8 jours ?"</blockquote>
+<h3>Pourquoi attendre pour se lancer dans une transition n&eacute;cessaire ?</h3>
+<br>A l'antith&egrave;se des agences dites traditionnelles, ceux qui sauront g&eacute;rer leur transition saurons mettre au centre l'agilit&eacute;, l'apprentissage en boucles courtes tout en travaillant avec la diversit&eacute; qui les entoure en philosophie circulaire.<br><br>Une &eacute;quipe en interne &agrave; &eacute;chelle humaine solide et tr&egrave;s connect&eacute;e humainement, ouverte sur des partenaires agiles qui sauront apporter un regard neuf, des m&eacute;thodologies et techniques en &eacute;volution rapide. Ces entreprises seront adapt&eacute;es &agrave; un monde qui retrouve sa dimension "organique" et non plus industrialis&eacute;e.<br>
+<h3>Pour finir : Pourquoi le Design Sprint ?</h3>
+<br>La programmation, les timing ainsi que la dur&eacute;e de 5 jours ont &eacute;t&eacute; &eacute;tudi&eacute;s par l&rsquo;exp&eacute;rience, via plus de 200 cas d&rsquo;&eacute;tudes dans le monde, pour tous types de sujets (surtout des sujets du num&eacute;rique). C&rsquo;est ainsi une base tr&egrave;s solide, une structure de laquelle on peut extraire &eacute;galement des phases &agrave; adapter en ateliers plus cibl&eacute;s.<br><br>De la vision abstraite d&rsquo;une id&eacute;e, de la d&eacute;finition des valeurs et de la connaissance des utilisateurs jusqu&rsquo;au test concret gr&acirc;ce &agrave; la r&eacute;alisation d&rsquo;un prototype fid&egrave;le, le Design sprint couvre tout le d&eacute;veloppement initial ou de grosse r&eacute;vision d&rsquo;un projet quelqu&rsquo;il soit.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Est-ce que le Design sprint est pour moi ?</title>
         <author>
