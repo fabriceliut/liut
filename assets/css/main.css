@@ -982,6 +982,11 @@ main {
     -ms-flex-order: 3;
     order: 3; }
 
+.banner {
+  text-align: center; }
+  .banner--after-post {
+    margin-top: calc(2.4rem + 1vw); }
+
 .author__thumb {
   border-radius: 50%;
   height: 8rem;
@@ -1065,7 +1070,7 @@ main {
   background: #f4f5f6;
   overflow: hidden;
   padding: 2.13333rem 4%;
-  margin: 8rem 0 0;
+  margin: calc(2.4rem + 1vw) 0 0;
   text-align: center; }
   .footer__copyright {
     color: #969fa8;
