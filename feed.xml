@@ -3,14 +3,86 @@
     <title>liut</title>
     <link href="https://slaapme.github.io/liut/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/liut" />
-    <updated>2018-01-09T21:53:09+01:00</updated>
+    <updated>2018-01-09T22:12:10+01:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/liut</id>
 
     <entry>
-        <title>Manifesto to a prosper world</title>
+        <title>Transform</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/transform/"/>
+        <id>https://slaapme.github.io/liut/transform/</id>
+            <category term="how"/>
+
+        <updated>2018-01-09T22:11:54+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/9/transform.jpg" alt="" />
+                When you understand, you can push the action button, you can change things and favorise solutions for everybody.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Understand.</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/understand/"/>
+        <id>https://slaapme.github.io/liut/understand/</id>
+            <category term="how"/>
+
+        <updated>2018-01-09T22:10:37+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/8/understand.jpg" alt="" />
+                When you are with others, you can listen more, develop a 360&deg; vu around problem to solve. Everything become easier, you can really understand complec human systems.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Interconnect.</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/interconnect/"/>
+        <id>https://slaapme.github.io/liut/interconnect/</id>
+            <category term="how"/>
+
+        <updated>2018-01-09T22:08:03+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/7/interconnect.jpg" alt="" />
+                When you listen, you can collaborate. To favorise collaboration you need before to match people that need each others.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Listen.</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/listen/"/>
+        <id>https://slaapme.github.io/liut/listen/</id>
+            <category term="how"/>
+
+        <updated>2018-01-09T22:06:20+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/6/listen.jpg" alt="" />
+                Everything start listening. Maybe the univers started listening, not taking.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Manifesto to a prosperous world.</title>
         <author>
             <name>Fabrice Liut</name>
         </author>
@@ -18,7 +90,7 @@
         <id>https://slaapme.github.io/liut/manifesto-to-a-prosper-world/</id>
             <category term="why"/>
 
-        <updated>2018-01-09T21:53:01+01:00</updated>
+        <updated>2018-01-09T22:08:38+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

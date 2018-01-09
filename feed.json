@@ -10,9 +10,69 @@
     },
     "items": [
         {
+            "id": "https://slaapme.github.io/liut/transform/",
+            "url": "https://slaapme.github.io/liut/transform/",
+            "title": "Transform",
+            "content_html": "When you understand, you can push the action button, you can change things and favorise solutions for everybody.",
+            "image": "https://slaapme.github.io/liut/media/posts/9/transform.jpg",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+                   "how"
+            ],
+            "date_published": "2018-01-09T22:11:54+01:00",
+            "date_modified": "2018-01-09T22:11:54+01:00"
+        },
+        {
+            "id": "https://slaapme.github.io/liut/understand/",
+            "url": "https://slaapme.github.io/liut/understand/",
+            "title": "Understand.",
+            "content_html": "When you are with others, you can listen more, develop a 360&deg; vu around problem to solve. Everything become easier, you can really understand complec human systems.",
+            "image": "https://slaapme.github.io/liut/media/posts/8/understand.jpg",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+                   "how"
+            ],
+            "date_published": "2018-01-09T22:10:37+01:00",
+            "date_modified": "2018-01-09T22:10:37+01:00"
+        },
+        {
+            "id": "https://slaapme.github.io/liut/interconnect/",
+            "url": "https://slaapme.github.io/liut/interconnect/",
+            "title": "Interconnect.",
+            "content_html": "When you listen, you can collaborate. To favorise collaboration you need before to match people that need each others.",
+            "image": "https://slaapme.github.io/liut/media/posts/7/interconnect.jpg",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+                   "how"
+            ],
+            "date_published": "2018-01-09T22:08:03+01:00",
+            "date_modified": "2018-01-09T22:08:03+01:00"
+        },
+        {
+            "id": "https://slaapme.github.io/liut/listen/",
+            "url": "https://slaapme.github.io/liut/listen/",
+            "title": "Listen.",
+            "content_html": "Everything start listening. Maybe the univers started listening, not taking.",
+            "image": "https://slaapme.github.io/liut/media/posts/6/listen.jpg",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+                   "how"
+            ],
+            "date_published": "2018-01-09T22:06:20+01:00",
+            "date_modified": "2018-01-09T22:06:20+01:00"
+        },
+        {
             "id": "https://slaapme.github.io/liut/manifesto-to-a-prosper-world/",
             "url": "https://slaapme.github.io/liut/manifesto-to-a-prosper-world/",
-            "title": "Manifesto to a prosper world",
+            "title": "Manifesto to a prosperous world.",
             "content_html": "<p>Listen.</p>\n<p>Interconnect.</p>\n<p>Understand.</p>\n<p>Transform.</p>\n<p><strong><em>L.I.U.T is a french foundation about participating transforming our society to a prosper model. LIUT Design is a protocol and a team.</em></strong></p>",
             "image": "https://slaapme.github.io/liut/media/posts/5/tribe.jpg",
             "author": {
@@ -22,7 +82,7 @@
                    "why"
             ],
             "date_published": "2018-01-09T21:46:30+01:00",
-            "date_modified": "2018-01-09T21:53:01+01:00"
+            "date_modified": "2018-01-09T22:08:38+01:00"
         }
     ]
 }
