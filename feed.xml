@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>le-comptoir</title>
+    <title>Le comptoir</title>
     <link href="https://slaapme.github.io/liut/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/liut" />
-    <updated>2018-09-13T18:39:13+02:00</updated>
+    <updated>2018-12-04T11:20:31+01:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
@@ -19,7 +19,12 @@
             <category term="how"/>
 
         <updated>2018-09-13T18:39:06+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/9/transform.jpg" alt="" />
+                     Se sont les histoires, les projections intellectuelles et émotionnelles, les rêves et l'imaginaire qui créent une attraction vers ces réalités immatérielles elles-même. Sans&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/liut/media/posts/9/transform.jpg" alt="" />
@@ -44,7 +49,12 @@
             <category term="how"/>
 
         <updated>2018-09-13T18:16:41+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/8/understand.jpg" alt="" />
+                    Les attitudes représentent les caractéristiques des actions elles-même. Lorsque les intelligences ont traité des problématiques, celles-ci deviennent des opportunités d'actions. Basculer dans la dimension&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/liut/media/posts/8/understand.jpg" alt="" />
@@ -69,7 +79,12 @@
             <category term="how"/>
 
         <updated>2018-09-13T17:50:33+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/7/interconnect.jpg" alt="" />
+                    Reposant sur les inspirations, les connaissances et les interrelations, les différentes intelligences mettent en oeuvre et connectent ces "ressources". Une inspiration ou une connaissance&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/liut/media/posts/7/interconnect.jpg" alt="" />
@@ -94,7 +109,12 @@
             <category term="how"/>
 
         <updated>2018-09-13T17:32:24+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/6/listen.jpg" alt="" />
+                    Le socle de tout projet de transformation vient de l'état d'esprit qui est la ressource nécessaire à la construction d'une nouvelle culture. Un état&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/liut/media/posts/6/listen.jpg" alt="" />
@@ -122,8 +142,13 @@
         <id>https://slaapme.github.io/liut/manifesto/</id>
             <category term="why"/>
 
-        <updated>2018-09-13T17:05:08+02:00</updated>
-            <summary></summary>
+        <updated>2018-12-04T11:16:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/5/comptoir.jpg" alt="" />
+                    Transition culturelle ?Nos organisations, institutions et éco-systèmes sont en pleine #transition. Mais comment se caractérise précisément cette transition de société ? Est-ce une transition&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://slaapme.github.io/liut/media/posts/5/comptoir.jpg" alt="" />
