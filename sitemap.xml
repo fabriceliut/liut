@@ -1,20 +1,15 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://slaapme.github.io/liut/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://slaapme.github.io/liut/</loc>
 </url>
 <url>
-<loc>https://slaapme.github.io/liut/interconnect/</loc>
-</url>
-<url>
-<loc>https://slaapme.github.io/liut/listen/</loc>
-</url>
-<url>
-<loc>https://slaapme.github.io/liut/manifesto/</loc>
-</url>
-<url>
-<loc>https://slaapme.github.io/liut/transform/</loc>
-</url>
-<url>
-<loc>https://slaapme.github.io/liut/understand/</loc>
+<loc>https://slaapme.github.io/liut/le-design-pour-demain/</loc>
+<lastmod>2019-09-11T13:13:22+02:00</lastmod>
+<image:image>
+<image:loc>https://slaapme.github.io/liut/media/posts/10/28-desktop-wallpaper.png</image:loc>
+<image:title><![CDATA[Design pour demain]]></image:title>
+</image:image>
 </url>
 </urlset>
