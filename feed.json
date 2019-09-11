@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://slaapme.github.io/liut/culture-design/",
+            "url": "https://slaapme.github.io/liut/culture-design/",
+            "title": "Culture Design.",
+            "summary": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;",
+            "content_html": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.",
+            "image": "https://slaapme.github.io/liut/media/posts/15/23-desktop-wallpaper.png",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-11T17:42:44+02:00",
+            "date_modified": "2019-09-11T17:42:49+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/liut/community-design/",
+            "url": "https://slaapme.github.io/liut/community-design/",
+            "title": "Community Design.",
+            "summary": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;",
+            "content_html": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.",
+            "image": "https://slaapme.github.io/liut/media/posts/14/31-desktop-wallpaper.png",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-11T17:40:01+02:00",
+            "date_modified": "2019-09-11T17:40:01+02:00"
+        },
+        {
             "id": "https://slaapme.github.io/liut/systemic-design/",
             "url": "https://slaapme.github.io/liut/systemic-design/",
             "title": "Systemic Design.",
@@ -67,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2019-09-11T13:13:22+02:00",
-            "date_modified": "2019-09-11T13:13:22+02:00"
+            "date_modified": "2019-09-11T17:47:24+02:00"
         }
     ]
 }
