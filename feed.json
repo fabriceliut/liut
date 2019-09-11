@@ -10,6 +10,51 @@
     },
     "items": [
         {
+            "id": "https://slaapme.github.io/liut/systemic-design/",
+            "url": "https://slaapme.github.io/liut/systemic-design/",
+            "title": "Systemic Design.",
+            "summary": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;",
+            "content_html": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.",
+            "image": "https://slaapme.github.io/liut/media/posts/13/74-desktop-wallpaper.png",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-11T17:18:19+02:00",
+            "date_modified": "2019-09-11T17:18:19+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/liut/business-design/",
+            "url": "https://slaapme.github.io/liut/business-design/",
+            "title": "Business Design.",
+            "summary": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;",
+            "content_html": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.",
+            "image": "https://slaapme.github.io/liut/media/posts/12/274-desktop-wallpaper.png",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-11T17:15:38+02:00",
+            "date_modified": "2019-09-11T17:15:38+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/liut/circular-design/",
+            "url": "https://slaapme.github.io/liut/circular-design/",
+            "title": "Circular Design.",
+            "summary": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;",
+            "content_html": "Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.",
+            "image": "https://slaapme.github.io/liut/media/posts/11/30-desktop-wallpaper.png",
+            "author": {
+                "name": "Fabrice Liut"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-11T17:14:09+02:00",
+            "date_modified": "2019-09-11T17:14:09+02:00"
+        },
+        {
             "id": "https://slaapme.github.io/liut/le-design-pour-demain/",
             "url": "https://slaapme.github.io/liut/le-design-pour-demain/",
             "title": "Le Design pour demain.",

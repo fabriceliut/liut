@@ -3,12 +3,78 @@
     <title>Liut Design.</title>
     <link href="https://slaapme.github.io/liut/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/liut" />
-    <updated>2019-09-11T13:13:27+02:00</updated>
+    <updated>2019-09-11T17:18:47+02:00</updated>
     <author>
         <name>Fabrice Liut</name>
     </author>
     <id>https://slaapme.github.io/liut</id>
 
+    <entry>
+        <title>Systemic Design.</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/systemic-design/"/>
+        <id>https://slaapme.github.io/liut/systemic-design/</id>
+
+        <updated>2019-09-11T17:18:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/13/74-desktop-wallpaper.png" alt="systemic design" />
+                    Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/13/74-desktop-wallpaper.png" alt="systemic design" />
+                Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Business Design.</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/business-design/"/>
+        <id>https://slaapme.github.io/liut/business-design/</id>
+
+        <updated>2019-09-11T17:15:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/12/274-desktop-wallpaper.png" alt="" />
+                    Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/12/274-desktop-wallpaper.png" alt="" />
+                Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Circular Design.</title>
+        <author>
+            <name>Fabrice Liut</name>
+        </author>
+        <link href="https://slaapme.github.io/liut/circular-design/"/>
+        <id>https://slaapme.github.io/liut/circular-design/</id>
+
+        <updated>2019-09-11T17:14:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://slaapme.github.io/liut/media/posts/11/30-desktop-wallpaper.png" alt="circular design" />
+                    Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/liut/media/posts/11/30-desktop-wallpaper.png" alt="circular design" />
+                Ici, vous trouverez une présentation de cet axe du Design, avec l'opportunité d'ouvrir sur plus de ressources, des formations ou des accompagnements spécifiques en contexte de projets réels.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Le Design pour demain.</title>
         <author>
